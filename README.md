@@ -1,5 +1,7 @@
-# Toady
+# Toady 1.0
 Wickedly extensible IRC bot written in Node.js.  Load and reload mods without reconnecting.
+
+## Please pay attention: This master branch is merged with version 1.x from Toady and got extended afterwards!
 
 ## Download. Install. Fly.
 If you don't already have Node.js, [get it](http://nodejs.org). It's awesome.
